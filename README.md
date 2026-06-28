@@ -1,124 +1,212 @@
-<div align="center">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi+there+!+!;I'm+Deekshith+J+Gowda;Cyber+Security+Enthusiast;Cloud+Computing+Learner;Developer+and+Problem+Solver;Secure+Systems+Protect+the+Future" alt="Typing SVG" />
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi+there+!+!;I'm+Deekshith+J+Gowda;Cyber+Security+Enthusiast;Cloud+Computing+Learner;Developer+and+Problem+Solver;Secure+Systems+Protect+the+Future" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=dee-hacks&label=Profile%20views&color=0e75b6&style=flat"/>
 
-</div>
+<br>
+<hr>
+
+<h3>🛠️ Tech Stack & Tools</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
 <br>
 
----
+<h3>🌐 Connect with me</h3>
 
-## 🚀 About Me
+<p>
 
-🔐 Passionate about **Cyber Security & Ethical Hacking**
+<a href="mailto:deekshithjgowda7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-☁️ Exploring **Cloud Computing and Cloud Security**
-
-💻 Building projects focused on **secure systems and automation**
-
-🎓 Computer Science Student
-
-🌱 Currently Learning:
-
-* Penetration Testing
-* Cloud Security
-* AWS Services
-* Network Security
-* Python Automation
-
-🎯 Goal:
-
-> To build secure, scalable, and future-ready cloud solutions.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### 🔐 Cyber Security
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=orange)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-00C2FF?style=for-the-badge)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dee-hacks&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dee-hacks&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/deekshith-j-gowda-14797b2b1">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/dee-hacks">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
----
+<br>
 
-## 💡 Current Focus
+<h3>👨‍💻 About Me</h3>
 
-🔐 Cyber Security Research
+<p align="center">
 
-☁️ Cloud Security & AWS
+Cyber Security and Cloud Computing enthusiast passionate about building secure and scalable digital solutions across modern technology ecosystems.<br>
 
-🤖 Security Automation
+Skilled in HTML, CSS, JavaScript, Python, and Java with growing expertise in cloud infrastructure, security concepts, and secure application development.
 
-🛡️ Ethical Hacking
+</p>
 
-🚀 Open Source Contributions
+<br>
 
----
-
-## ⚡ Motto
-
-<div align="center">
-
-> **"Secure Systems. Protect the Future."**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
+
+---
+
+# DEEKSHITH J GOWDA
+
+**Cyber Security & Cloud Computing Enthusiast | Secure Systems & Cloud Technologies**
+
+📍 Bengaluru, Karnataka, India <br>
+📧 deekshithjgowda7@gmail.com
+
+---
+
+## Professional Summary
+
+Cyber Security and Cloud Computing enthusiast passionate about building **secure, scalable, and efficient digital systems**.
+
+Skilled in **HTML, CSS, JavaScript, Python, and Java**, with growing expertise in **cloud infrastructure, security fundamentals, and modern development workflows**.
+
+* Maintains continuous learning in cybersecurity and cloud technologies.
+* Interested in secure application design and infrastructure security.
+* Exploring cloud platforms and modern deployment practices.
+* Adaptable learner with strong analytical and problem-solving skills.
+* Focused on building practical projects and technical growth.
+
+---
+
+## Technical Skills
+
+### Cloud Computing
+
+* Cloud Fundamentals
+* AWS Basics
+* Infrastructure Concepts
+* Virtualization
+
+### Cyber Security
+
+* Network Security
+* Security Fundamentals
+* Ethical Hacking Concepts
+* Web Application Security
+
+---
+
+## Experience
+
+### Self Learning & Independent Development
+
+2024 – Present
+
+* Building practical experience through projects and experimentation.
+* Exploring cloud technologies and security concepts.
+* Developing technical understanding through hands-on learning.
+* Maintaining continuous improvement through self-driven practice.
+
+---
+## Education
+
+### Bachelor of Science (B.Sc)
+
+**Computer Science & Mathematics**<br>
+**PES Institute of Advanced Management Studies (PESIAMS), Shivamogga**<br>
+**Kuvempu University | 2022 – 2025**
+
+Completed Bachelor of Science with specialization in **Computer Science and Mathematics**, developing a strong foundation in programming, analytical thinking, and computational problem-solving. Gained practical exposure to software development concepts, logical reasoning, and modern technologies while strengthening technical and academic skills throughout the course.
+
+**CGPA: 8.53 / 10**
+
+### Master of Computer Applications (MCA)
+
+**Sir M. Visvesvaraya Institute of Technology (SMVIT), Bengaluru**<br>
+**Visvesvaraya Technological University (VTU) | 2025 – Present**
+
+Currently pursuing Master of Computer Applications with a focus on developing advanced knowledge in **software development, cloud computing, cyber security, and modern computing technologies**. Continuously enhancing technical expertise through academic learning, practical implementation, and project-based approaches while strengthening analytical and problem-solving abilities.
+
+**CGPA: Ongoing**
+
+---
+
+## Key Projects
+
+### Mind Mapping a Simple Webpage Project
+
+Tech: HTML, CSS, JavaScript 
+
+* Built responsive webpage for learning purpose.
+* Showcases the importance of each technology.
+
+### Cyber Security Complaining and Learning Platform
+
+Tech: MERN Stack
+
+* Documented cyber complaint management system.
+* Cybersecurity learning and practice modules.
+* User-friendly interface for reporting incidents.
+
+### Password Strength Analyzer Project
+
+Tech: HTML, CSS, JavaScript
+
+* Password strength evaluation.
+* Keyword weight analysis.
+---
+
+## Achievements
+
+* Ambassador in Cyber Security Club.
+* Building strong technical foundations.
+* Co-ordinater in MindDrift AI Club.
+* Developed projects using basic technologies.
+
+---
+
+## Certifications
+
+* Shields Up : Cyber Security Job Simulation.
+* Cyber Security and Ethical Hacking.
+* Web Development Certifications.
+* Python AI Development.
+* Programming using Java.
+
+---
+
+## Languages & Interests
+
+### Languages
+
+* English
+* Kannada
+* Hindi
+
+### Interests
+
+* Cyber Security
+* Cloud Computing
+* Secure Development
+* Open Source
+* Technology Research
+* Digital Forensic 
+
+---
+
+**Consistent Learner • Security First • Cloud Focused**

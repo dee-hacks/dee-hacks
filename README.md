@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi+there+!+!;I'm+Deekshith+J+Gowda;Cyber+Security+Enthusiast;Cloud+Computing+Learner;Web+Developer+and+Problem+Solver;Secure+Systems+Protect+the+Future" alt="Typing SVG" />
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi+there+!+!;I'm+Deekshith+J+Gowda;Cyber+Security+Enthusiast;Cloud+Computing+Learner;AI+Integrated+Web+Developer+and+Problem+Solver;Secure+Systems+Protect+the+Future" alt="Typing SVG" />
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=dee-hacks&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge"/>
 

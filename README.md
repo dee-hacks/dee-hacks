@@ -24,7 +24,7 @@
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge"/>
 

@@ -76,7 +76,7 @@ Skilled in HTML5, CSS3, JavaScript, AI, Python, and Java with growing expertise 
 
 ---
 
-# DEEKSHITH J GOWDA
+# Deekshith J Gowda
 
 **AI Integrated Web Developer | Cyber Security & Cloud Computing Enthusiast | Secure Systems & Cloud Technologies**
 
@@ -87,7 +87,7 @@ Skilled in HTML5, CSS3, JavaScript, AI, Python, and Java with growing expertise 
 
 ## Professional Summary
 
-Cyber Security and Cloud Computing enthusiast passionate about building **secure, scalable, and efficient digital systems**.
+AI Integrated Web Developer, Cyber Security and Cloud Computing enthusiast passionate about building **secure, scalable, and efficient digital systems**.
 
 Skilled in **HTML5, CSS3, JavaScript, Python, AI, and Java**, with growing expertise in **cloud infrastructure, security fundamentals, and modern development workflows**.
 
@@ -101,7 +101,7 @@ Skilled in **HTML5, CSS3, JavaScript, Python, AI, and Java**, with growing exper
 
 ## Technical Skills
 
-## Artifical Intelligence
+### Artificial Intelligence
 * LLM
 * NLP
 

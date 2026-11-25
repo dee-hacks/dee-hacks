@@ -62,7 +62,7 @@
 
 <p align="center">
 
-Cyber Security and Cloud Computing enthusiast passionate about building secure and scalable digital solutions across modern technology ecosystems.<br>
+AI Integrated Web Developer,Cyber Security and Cloud Computing enthusiast passionate about building secure and scalable digital solutions across modern technology ecosystems.<br>
 
 Skilled in HTML, CSS, JavaScript, Python, and Java with growing expertise in cloud infrastructure, security concepts, and secure application development.
 

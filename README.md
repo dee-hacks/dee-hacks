@@ -64,7 +64,7 @@
 
 AI Integrated Web Developer,Cyber Security and Cloud Computing enthusiast passionate about building secure and scalable digital solutions across modern technology ecosystems.<br>
 
-Skilled in HTML, CSS, JavaScript, Python, and Java with growing expertise in cloud infrastructure, security concepts, and secure application development.
+Skilled in HTML5, CSS3, JavaScript, AI, Python, and Java with growing expertise in cloud infrastructure, security concepts, and secure application development.
 
 </p>
 
@@ -78,7 +78,7 @@ Skilled in HTML, CSS, JavaScript, Python, and Java with growing expertise in clo
 
 # DEEKSHITH J GOWDA
 
-**Cyber Security & Cloud Computing Enthusiast | Secure Systems & Cloud Technologies**
+**AI Integrated Web Developer | Cyber Security & Cloud Computing Enthusiast | Secure Systems & Cloud Technologies**
 
 📍 Bengaluru, Karnataka, India <br>
 📧 deekshithjgowda7@gmail.com
@@ -89,7 +89,7 @@ Skilled in HTML, CSS, JavaScript, Python, and Java with growing expertise in clo
 
 Cyber Security and Cloud Computing enthusiast passionate about building **secure, scalable, and efficient digital systems**.
 
-Skilled in **HTML, CSS, JavaScript, Python, and Java**, with growing expertise in **cloud infrastructure, security fundamentals, and modern development workflows**.
+Skilled in **HTML5, CSS3, JavaScript, Python, AI, and Java**, with growing expertise in **cloud infrastructure, security fundamentals, and modern development workflows**.
 
 * Maintains continuous learning in cybersecurity and cloud technologies.
 * Interested in secure application design and infrastructure security.
@@ -100,6 +100,10 @@ Skilled in **HTML, CSS, JavaScript, Python, and Java**, with growing expertise i
 ---
 
 ## Technical Skills
+
+## Artifical Intelligence
+* LLM
+* NLP
 
 ### Cloud Computing
 
@@ -175,6 +179,14 @@ Tech: HTML, CSS, JavaScript
 
 * Password strength evaluation.
 * Keyword weight analysis.
+
+### Multi-Domain Nutritional Knowledge Extraction and Contextual Health Inferences using NLP
+
+* Using the Voice and Text based inputs.
+* Multi-Domain like CareTakers (0-2 years), 60+ aged people and the Gym Goers.
+* Fermentation Knowledge and Weather based food recommandation.
+* Weight based food notification for each domain
+  
 ---
 
 ## Achievements
